@@ -1,0 +1,13 @@
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\bin\Debug\netstandard2.0\TrueFalseSwiper.deps.json
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\bin\Debug\netstandard2.0\TrueFalseSwiper.dll
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\bin\Debug\netstandard2.0\TrueFalseSwiper.pdb
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.csproj.AssemblyReference.cache
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.AssemblyInfoInputs.cache
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.AssemblyInfo.cs
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.csproj.CoreCompileInputs.cache
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.dll
+C:\Users\Connor\RiderProjects\TrueFalseSwiper\TrueFalseSwiper\TrueFalseSwiper\obj\Debug\netstandard2.0\TrueFalseSwiper.pdb
